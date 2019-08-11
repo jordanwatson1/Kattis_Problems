@@ -1,3 +1,3 @@
-# Link to "I've Been Everywhere, Man" Problem
+# Link to "I've Been Everywhere, Man" problem
 
 https://open.kattis.com/problems/everywhere
